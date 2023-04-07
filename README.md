@@ -12,14 +12,15 @@ This Slack bot is designed to be a helpful assistant for summarizing message thr
 ## Technologies
 The Slack ChatGPT Project is built using:
 * Python 3
-* openai 0.27.0
-* slack-sdk 3.11.2
-* slack-bolt 1.9.1
-* PyPDF2 1.26.0
-* aiohttp 3.7.4
-* aiosqlite 0.17.0
-* tiktoken 1.0.0
-* tenacity 8.0.1
+* openai 0.27.2
+* slack-sdk 3.20.2
+* slack-bolt 1.16.4
+* PyPDF2 3.0.1
+* aiohttp 3.8.4
+* aiosqlite 0.18.0
+* tiktoken 0.3.3
+* tenacity 8.2.2
+
 ## Setup
 1. Clone the project from the GitHub repository.
 2. Install the required Python packages.
