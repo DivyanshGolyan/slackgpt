@@ -37,7 +37,7 @@ The Slack ChatGPT Project is built using:
 ## Usage
 1. Run the bot using the following command.
    
-   python github.py
+   python app.py
    
 2. Within Slack, users can interact with the Slack bot in two ways:
    * Summarizing message threads using the "summarise_thread" shortcut on the message's action menu.
