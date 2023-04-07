@@ -27,7 +27,8 @@ The Slack ChatGPT Project is built using:
    
    pip install -r requirements.txt
    
-3. Set your OpenAI API key and Slack tokens as environment variables.
+3. Create a slack app. Use the app manifest in manifest.json.
+4. Set your OpenAI API key and Slack tokens as environment variables.
    
    export OPENAI_API_KEY="your-openai-api-key"
    export SLACK_BOT_TOKEN="your-slack-bot-token"
