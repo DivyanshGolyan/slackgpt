@@ -1,0 +1,8 @@
+aiohttp==3.8.4
+aiosqlite==0.18.0
+openai==0.27.2
+PyPDF2==3.0.1
+slack_bolt==1.16.4
+slack_sdk==3.20.2
+tenacity==8.2.2
+tiktoken==0.3.3
