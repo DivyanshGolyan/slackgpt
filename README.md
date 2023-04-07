@@ -1,5 +1,3 @@
-# slackgpt
-Chat with GPT4 natively on Slack
 # Slack ChatGPT Project
 ## Table of Contents
 1. [Introduction](#introduction)
